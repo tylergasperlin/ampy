@@ -1,3 +1,8 @@
+# uses aws amplify
+run this command to get the project files like aws-exports
+
+amplify pull --appId d1pgebs87moclc --envName staging
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
