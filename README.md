@@ -1,4 +1,4 @@
-# uses aws amplify
+# Uses aws amplify
 run this command to get the project files like aws-exports
 
 amplify pull --appId d1pgebs87moclc --envName staging
